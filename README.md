@@ -2,3 +2,8 @@
 
 * npm install
 * grunt
+
+Todo:
+mocks and spies with Sinon
+
+See http://www.kenpowers.net/blog/testing-in-browsers-and-node/
