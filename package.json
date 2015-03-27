@@ -1,0 +1,13 @@
+{
+  "name": "simple-mocha",
+  "description": "simple mocha example",
+  "author": "Martijn Gijsberti Hodenpijl",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "chai": "^2.2.0",
+    "grunt": "^0.4.5",
+    "grunt-mocha-test": "^0.12.7",
+    "mocha": "^2.2.1"
+  }
+}
