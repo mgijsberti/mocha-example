@@ -8,7 +8,8 @@ module.exports = function(grunt) {
         // test runner suite
         'mocha-chai-sinon': {
             options: {
-                ui: 'bdd'
+                ui: 'bdd',
+                quiet: false
             },
             build: {
                 src: ['./specs/**/*.spec.js'],
